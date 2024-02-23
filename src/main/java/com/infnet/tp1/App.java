@@ -14,6 +14,7 @@ public class App
     public static void main( String[] args )
     {
         Scanner scanner = new Scanner(System.in);
+        System.out.println("VOCE ESTA NA BRANCH DE TESTES");
         System.out.println("Qual o valor da taxa Selic?");
         double selic = lerDouble(scanner);
         RendaFixa.setSelic(selic);
