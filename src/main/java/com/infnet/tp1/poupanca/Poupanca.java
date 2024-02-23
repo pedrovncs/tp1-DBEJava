@@ -1,6 +1,6 @@
-package com.infnet.tp5.poupanca;
+package com.infnet.tp1.poupanca;
 
-import com.infnet.tp5.rendafixa.RendaFixa;
+import com.infnet.tp1.rendafixa.RendaFixa;
 import lombok.Getter;
 
 @Getter

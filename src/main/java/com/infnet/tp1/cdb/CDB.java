@@ -1,6 +1,6 @@
-package com.infnet.tp5.cdb;
+package com.infnet.tp1.cdb;
 
-import com.infnet.tp5.rendafixa.RendaFixa;
+import com.infnet.tp1.rendafixa.RendaFixa;
 import lombok.AllArgsConstructor;
 import lombok.Getter;
 

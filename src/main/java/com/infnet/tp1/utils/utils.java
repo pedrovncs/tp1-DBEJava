@@ -1,4 +1,4 @@
-package com.infnet.tp5.utils;
+package com.infnet.tp1.utils;
 
 import java.util.Scanner;
 

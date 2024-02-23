@@ -1,13 +1,13 @@
-package com.infnet.tp5;
+package com.infnet.tp1;
 
-import com.infnet.tp5.cdb.CDB;
-import com.infnet.tp5.poupanca.Poupanca;
-import com.infnet.tp5.rendafixa.RendaFixa;
+import com.infnet.tp1.cdb.CDB;
+import com.infnet.tp1.poupanca.Poupanca;
+import com.infnet.tp1.rendafixa.RendaFixa;
 
 import java.util.Scanner;
 
-import static com.infnet.tp5.utils.utils.lerDouble;
-import static com.infnet.tp5.utils.utils.lerInt;
+import static com.infnet.tp1.utils.utils.lerDouble;
+import static com.infnet.tp1.utils.utils.lerInt;
 
 public class App
 {

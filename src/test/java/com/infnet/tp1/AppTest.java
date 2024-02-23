@@ -1,4 +1,4 @@
-package com.infnet.tp5;
+package com.infnet.tp1;
 
 import junit.framework.Test;
 import junit.framework.TestCase;

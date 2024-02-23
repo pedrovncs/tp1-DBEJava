@@ -1,4 +1,4 @@
-package com.infnet.tp5.rendafixa;
+package com.infnet.tp1.rendafixa;
 
 public abstract class RendaFixa {
     public static double selic;
